@@ -22,8 +22,8 @@ The **Crop Recommendation System** is a **machine learning-powered web applicati
 ---
 
 ## 📊 **Dataset Used**  
-The ML model is trained on a dataset containing **soil nutrients (N, P, K), pH levels, temperature, humidity, and rainfall** with corresponding crop labels. The dataset ensures **accurate and practical recommendations** for farmers.  
-    Crop_recommendation.csv
+The ML model is trained on a dataset containing **soil nutrients (N, P, K), pH levels, temperature, humidity, and rainfall** with corresponding crop labels. The dataset ensures **accurate and practical recommendations** for farmers. 
+
 ---
 
 ## 🚀 **How to Run the Project**  
